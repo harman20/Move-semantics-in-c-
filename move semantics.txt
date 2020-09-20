@@ -1,0 +1,1 @@
+Move semantics provide a way for the contents of objects to be 'moved' between objects, rather than copied, thus significantly changing the way we design+code C++ by allowing things like return by value to be used a lot more often.
